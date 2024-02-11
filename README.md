@@ -1,4 +1,8 @@
 # Game Human Rig
+
+
+![showcase](showcase.png)
+
 This repository contains a .blend file of a prototyping rigged mesh that should be importable in Unity and Unreal.
 
 I did not use Riggify for this because it provides a rig that is not directly usable in your usual game engine (you can have to convert it using an [addon](https://github.com/pKrime/Expy-Kit))
