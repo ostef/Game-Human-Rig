@@ -5,7 +5,7 @@
 
 This repository contains a .blend file of a prototyping rigged mesh that should be importable in Unity and Unreal.
 
-I did not use Riggify for this because it provides a rig that is not directly usable in your usual game engine (you can have to convert it using an [addon](https://github.com/pKrime/Expy-Kit))
+I did not use Riggify for this because it provides a rig that is not directly usable in your usual game engine (though it can be converted with the help of an [addon](https://github.com/pKrime/Expy-Kit))
 
 The mesh is a modified version of the male [Blender demo base mesh](https://www.blender.org/download/demo-files/)
 
