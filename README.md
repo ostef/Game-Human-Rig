@@ -1,6 +1,8 @@
 # Game Human Rig
 
-![showcase](showcase.png)
+![Showcase](showcase.png)
+
+![Sprint Anim](showcase_sprint.gif)
 
 This repository contains a .blend file of two prototyping rigged meshes that should be importable in Unity and Unreal, with a few sample animations.
 
