@@ -2,7 +2,7 @@
 
 ![showcase](showcase.png)
 
-This repository contains a .blend file of two prototyping rigged meshes that should be importable in Unity and Unreal.
+This repository contains a .blend file of two prototyping rigged meshes that should be importable in Unity and Unreal, with a few sample animations.
 
 I did not use Riggify for this because it provides a rig that is not directly usable in your usual game engine (though it can be converted with the help of an [addon](https://github.com/pKrime/Expy-Kit))
 
